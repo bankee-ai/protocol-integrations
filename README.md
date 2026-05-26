@@ -1,3 +1,5 @@
+![bankee.ai](logo.png)
+
 # Bankee Protocol Integrations
 
 Reference implementations and integration guides showing how the Bankee SDK connects to every major agentic and traditional payment protocol.
