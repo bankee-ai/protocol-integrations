@@ -59,5 +59,8 @@ Each protocol folder contains:
 
 ## Contact
 
-Integration questions: mohammed@bankee.ai  
-Partnerships: naved@bankee.ai
+| | |
+|---|---|
+| Integration & technical | mohammed@bankee.ai |
+| Commercial & partnerships | Jonathan@bankee.ai |
+| Strategic alliances | naved@bankee.ai |
